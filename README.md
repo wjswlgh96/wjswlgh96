@@ -1,5 +1,8 @@
 ## Hi I`m JiHo Jeon 👋
 
+### Backend Developer using Java & Spring
+주어진 상황에 안주하는 것이 아닌, 더 성장하기 위해 노력하고 있습니다.  
+
 | GitHub Stats | Top Languages |
 |--------------|---------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjswlgh96&hide=stars&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjswlgh96&layout=compact&theme=dark) |
