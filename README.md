@@ -10,7 +10,6 @@
 <h3>✨ Tech Stack ✨</h3>
 <div>
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" />&nbsp
 </div>
