@@ -9,19 +9,30 @@
 
 <h3>✨ Tech Stack ✨</h3>
 <div>
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/spring%20data%20jpa-6DB33F.svg?style=for-the-badge&logoColor=FFFFFF" /> 
+  <img src="https://img.shields.io/badge/querydsl-2C3E50.svg?style=for-the-badge&logoColor=FFFFFF" /> 
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=FFFFFF" /> 
+  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
 </div>
 
 <br>
 
 <h3>📚 Studying 📚</h3>
 <div>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/amazonec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/amazonrds-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/amazons3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/amazonec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/amazonrds-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
 </div>
 
 <br>
