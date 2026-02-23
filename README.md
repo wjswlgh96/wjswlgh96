@@ -5,7 +5,7 @@
 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats-wheat-eta-98.vercel.app/api?username=wjswlgh96&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats-wheat-eta-98.vercel.app/api/top-langs/?username=wjswlgh96&layout=compact&theme=dark) |
+| ![GitHub Stats](https://github-readme-stats-wheat-eta-98.vercel.app/api?username=wjswlgh96&show_icons=true&theme=dark&v=4) | ![Top Langs](https://github-readme-stats-wheat-eta-98.vercel.app/api/top-langs/?username=wjswlgh96&layout=compact&theme=dark) |
 
 <h3>✨ Tech Stack ✨</h3>
 <div>
